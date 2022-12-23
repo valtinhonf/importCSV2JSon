@@ -1,0 +1,26 @@
+{
+  "name": "importcsv2json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "pasta":"node arquivo_em_pasta.mjs",
+    "simples":"node arquivo_simples.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valtinhonf/importCSV2JSon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valtinhonf/importCSV2JSon/issues"
+  },
+  "homepage": "https://github.com/valtinhonf/importCSV2JSon#readme",
+  "dependencies": {
+    "convert-csv-to-json": "^1.5.0"
+  }
+}
